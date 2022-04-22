@@ -1,2 +1,2 @@
 # portifolio
-site para exposição de projetos
+site portifolio pessoal
